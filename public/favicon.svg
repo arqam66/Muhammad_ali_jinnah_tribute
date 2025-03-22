@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Circular background for favicon -->
+  <circle cx="50" cy="50" r="50" fill="#01411C"/>
+  
+  <!-- Crescent -->
+  <circle cx="50" cy="50" r="35" fill="white"/>
+  <circle cx="60" cy="50" r="30" fill="#01411C"/>
+  
+  <!-- Star -->
+  <polygon points="50,20 53,32 65,32 55,40 59,52 50,45 41,52 45,40 35,32 47,32" fill="white"/>
+</svg>
+

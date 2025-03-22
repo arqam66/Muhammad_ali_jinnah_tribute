@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180">
+  <!-- Circular background for Apple Touch Icon -->
+  <circle cx="90" cy="90" r="90" fill="#01411C"/>
+  
+  <!-- Crescent -->
+  <circle cx="90" cy="90" r="65" fill="white"/>
+  <circle cx="110" cy="90" r="55" fill="#01411C"/>
+  
+  <!-- Star -->
+  <polygon points="90,35 97,60 125,60 103,75 110,100 90,85 70,100 77,75 55,60 83,60" fill="white"/>
+</svg>
+
