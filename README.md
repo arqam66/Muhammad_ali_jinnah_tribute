@@ -1,55 +1,121 @@
-# Jinnah Tribute Website
 
-## Overview
-The **Jinnah Tribute** website is a dedicated platform that honors the life, achievements, and legacy of **Quaid-e-Azam Muhammad Ali Jinnah**, the founder of Pakistan. This website provides historical insights, speeches, and key milestones of Jinnah’s life, presented in a well-structured and engaging manner.
 
-## Features
-- **Home Page**: A welcoming introduction to Jinnah’s life and contributions.
-- **Biography Section**: Detailed account of Jinnah’s early life, education, and political journey.
-- **Achievements**: Highlights of his key contributions to the Pakistan Movement.
-- **Speeches & Quotes**: A collection of his most famous speeches and inspiring quotes.
-- **Gallery**: Historical photographs showcasing important moments of his life.
-- **Responsive Design**: Ensures a seamless experience across all devices.
-- **User-Friendly Interface**: Easy navigation and visually appealing design.
+# Muhammad Ali Jinnah Tribute
 
-## Deployment
-The website is deployed on **Vercel**, a platform that provides fast and reliable hosting.
-- Live URL: [Jinnah Tribute](https://jinnah-tribute1.vercel.app/)
-
-## How to Run Locally
-To run the project locally, follow these steps:
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/jinnah-tribute.git
-   ```
-2. Navigate to the project folder:
-   ```sh
-   cd jinnah-tribute
-   ```
-3. Open `index.html` in a browser:
-   ```sh
-   start index.html
-   ```
-   OR
-   ```sh
-   open index.html
-   ```
-
-## Future Enhancements
-- Adding a **timeline feature** to showcase Jinnah’s life events in an interactive way.
-- Implementing a **dark mode** option for better readability.
-- Adding a **search feature** for quick navigation to specific sections.
-- Including a **feedback form** for visitor interaction.
-
-## Contribution
-If you want to contribute to this project:
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature-branch`.
-3. Commit your changes: `git commit -m 'Add new feature'`.
-4. Push to the branch: `git push origin feature-branch`.
-5. Create a Pull Request.
+A tribute website honoring the life, work, and legacy of Quaid-e-Azam Muhammad Ali Jinnah, the founder of Pakistan.
+**Developed by [Arqam Hussain](https://github.com/arqam66)**
 
 ---
-This project is a tribute to the great leader Muhammad Ali Jinnah, aiming to educate and inspire people about his immense contributions. 🇵🇰
 
+## Table of Contents
+
+* [Overview](#overview)
+* [Features](#features)
+* [Live Demo](#live-demo)
+* [Getting Started](#getting-started)
+
+  * [Prerequisites](#prerequisites)
+  * [Installation](#installation)
+* [Future Enhancements](#future-enhancements)
+* [How to Contribute](#how-to-contribute)
+* [Technologies Used](#technologies-used)
+* [License](#license)
+
+---
+
+## Overview
+
+This site celebrates Muhammad Ali Jinnah’s enduring legacy, offering a structured and visually compelling account of his early years, political journey, and pivotal role in the creation of Pakistan.
+
+---
+
+## Features
+
+* **Home Page** – An introduction to Jinnah’s life and achievements.
+* **Biography Section** – Details about his early life, education, and political career.
+* **Achievements** – Key contributions to the Pakistan Movement.
+* **Speeches & Quotes** – Memorable speeches and famous quotes.
+* **Gallery** – Historic photographs of his journey.
+* **Responsive Design** – Works seamlessly across devices.
+
+---
+
+## Live Demo
+
+🔗 **[View Live Project Here](https://arqam66.github.io/Muhammad_ali_jinnah_tribute/)**
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+To view or edit this project, you’ll need:
+
+* Git (for cloning the repo)
+* A web browser (e.g., Chrome, Firefox, Edge)
+* (Optional) A code editor like VS Code for modifications
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/arqam66/Muhammad_ali_jinnah_tribute.git
+   ```
+2. Navigate into the project folder:
+
+   ```bash
+   cd Muhammad_ali_jinnah_tribute
+   ```
+3. Open `index.html` (or run via a development server if using TypeScript build tools).
+
+---
+
+## Future Enhancements
+
+* Add an **interactive timeline** of Jinnah’s life.
+* Include **dark mode** for better readability.
+* Implement **search functionality** for quick content access.
+* Add **multilingual support** for a wider audience.
+
+---
+
+## How to Contribute
+
+1. Fork the repository.
+2. Create a new branch:
+
+   ```bash
+   git checkout -b feature/new-feature
+   ```
+3. Commit your changes:
+
+   ```bash
+   git commit -m "Add [feature description]"
+   ```
+4. Push to your branch:
+
+   ```bash
+   git push origin feature/new-feature
+   ```
+5. Open a pull request.
+
+---
+
+## Technologies Used
+
+* **TypeScript** 
+* **CSS3** 
+* **JavaScript**
+
+---
+
+## License
+
+This project is licensed under the MIT License.
+
+---
+
+If you want, I can now **add GitHub shields (badges)** for TypeScript, CSS, JavaScript, License, and Live Demo so the README looks visually attractive at the top.
+Do you want me to add those badges?
