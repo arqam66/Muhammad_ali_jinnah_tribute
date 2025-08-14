@@ -40,11 +40,6 @@ This site celebrates Muhammad Ali Jinnah’s enduring legacy, offering a structu
 
 ---
 
-## Live Demo
-
-🔗 **[View Live Project Here](https://arqam66.github.io/Muhammad_ali_jinnah_tribute/)**
-
----
 
 ## Getting Started
 
@@ -103,19 +98,7 @@ To view or edit this project, you’ll need:
 
 ---
 
-## Technologies Used
-
-* **TypeScript** 
-* **CSS3** 
-* **JavaScript**
-
----
 
 ## License
 
 This project is licensed under the MIT License.
-
----
-
-If you want, I can now **add GitHub shields (badges)** for TypeScript, CSS, JavaScript, License, and Live Demo so the README looks visually attractive at the top.
-Do you want me to add those badges?
